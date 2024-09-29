@@ -10,4 +10,4 @@ Image Classifier -
 https://colab.research.google.com/drive/1lwAT85xIwb_8CPV9SZDXZ3KJwI_-tC_P#scrollTo=2gAO6sqYltS9
 
 Zero Shot Classification
-https://colab.research.google.com/drive/1tF5yBrWm-ojsF5LiE8BXy8-WSKoyeEYA#scrollTo=_IDo8q-8mggu
+- https://colab.research.google.com/drive/1tF5yBrWm-ojsF5LiE8BXy8-WSKoyeEYA#scrollTo=_IDo8q-8mggu
