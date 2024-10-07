@@ -5,6 +5,8 @@ https://colab.research.google.com/drive/1AFOPExPlX1uF6_uPowmybnmzf0i8qqFu#scroll
 
 Kaggle California House - https://colab.research.google.com/drive/1XAYyzzJT6rIXzXpno0Xzn71-_zbEdL4t
 
+i-Tabular Indepth - https://colab.research.google.com/drive/1QP1gI4ZZklQpXmgrxe6rzsoLRBnh6xVn?usp=sharing#scrollTo=487344de
+
 i1-Tabular Quick Start
 https://colab.research.google.com/drive/1BODEvY1LmuftAL6BFpDkFxtpZTw8XGPO#scrollTo=XsB2QVh0VDSt
 
